@@ -1,0 +1,11 @@
+{"returncode":200,"returndata":{"datanodes":[
+    {"code":"zb.A030101_sj.2023",
+     "data":{"data":140967.0,"dotcount":0,"hasdata":true,"strdata":"140967"},"wds":[{"valuecode":"A030101","wdcode":"zb"},{"valuecode":"2023","wdcode":"sj"}]},
+     {"code":"zb.A030101_sj.2022",
+      "data":{"data":141175.0,"dotcount":0,"hasdata":true,"strdata":"141175"},"wds":[{"valuecode":"A030101","wdcode":"zb"},{"valuecode":"2022","wdcode":"sj"}]},
+    {"code":"zb.A030101_sj.2021",
+     "data":{"data":141260.0,"dotcount":0,"hasdata":true,"strdata":"141260"},"wds":[{"valuecode":"A030101","wdcode":"zb"},{"valuecode":"2021","wdcode":"sj"}]},
+    {"code":"zb.A030101_sj.2020",
+     "data":{"data":141212.0,"dotcount":0,"hasdata":true,"strdata":"141212"},"wds":[{"valuecode":"A030101","wdcode":"zb"},{"valuecode":"2020","wdcode":"sj"}]},
+    {"code":"zb.A030101_sj.2019",
+     "data":{"data":141008.0,"dotcount":0,"hasdata":true,"strdata":"141008"},"wds":[{"valuecode":"A030101","wdcode":"zb"},{"valuecode":"2019","wdcode":"sj"}]}]}

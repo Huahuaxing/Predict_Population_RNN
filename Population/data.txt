@@ -1,0 +1,26 @@
+
+
+{"returncode":200,"returndata":{"datanodes":[
+
+    {"code":"zb.A030101_sj.2023",
+     "data":{"data":140967.0,"dotcount":0,"hasdata":true,"strdata":"140967"},
+     "wds":[{"valuecode":"A030101","wdcode":"zb"},{"valuecode":"2023","wdcode":"sj"}]},
+
+    {"code":"zb.A030101_sj.2022",
+     "data":{"data":141175.0,"dotcount":0,"hasdata":true,"strdata":"141175"},
+     "wds":[{"valuecode":"A030101","wdcode":"zb"},{"valuecode":"2022","wdcode":"sj"}]},
+
+    {"code":"zb.A030101_sj.2021",
+     "data":{"data":141260.0,"dotcount":0,"hasdata":true,"strdata":"141260"},
+     "wds":[{"valuecode":"A030101","wdcode":"zb"},{"valuecode":"2021","wdcode":"sj"}]},
+
+    {"code":"zb.A030101_sj.2020",
+     "data":{"data":141212.0,"dotcount":0,"hasdata":true,"strdata":"141212"},
+     "wds":[{"valuecode":"A030101","wdcode":"zb"},{"valuecode":"2020","wdcode":"sj"}]},
+
+    {"code":"zb.A030105_sj.2014",
+     "data":{"data":60908.355,"dotcount":0,"hasdata":true,"strdata":"60908"},
+     "wds":[{"valuecode":"A030105","wdcode":"zb"},{"valuecode":"2014","wdcode":"sj"}]}
+]}
+
+# 数据来源网页（可直接复制浏览器打开）http://data.stats.gov.cn/easyquery.htm?m=QueryData&dbcode=hgnd&rowcode=sj&colcode=zb&wds=[]&dfwds=[{"wdcode": "sj", "valuecode": "LAST70"}, {"wdcode":"zb","valuecode":"A0303"}]
